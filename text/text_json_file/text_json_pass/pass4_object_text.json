@@ -1,0 +1,24 @@
+{
+	"string":"string",
+	"integer":1234e456,
+	"null":null,
+	"boolean":true,
+	"array":
+		[
+			"string",
+			1234,
+			null,
+			false,
+			{},
+			[]
+		],
+	"object":
+		{
+			"string":"string",
+			"integer":1234,
+			"null":null,
+			"boolean":true,
+			"array":[],
+			"object":{}
+		}
+}
